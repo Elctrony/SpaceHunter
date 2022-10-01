@@ -10,6 +10,17 @@
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 
+
+Packages/
+ProjectSettings/
+Assets/MarsEnviroment
+Assets/Polygonal Creatures Pack 2
+Assets/PolygonSciFiSpace
+Assets/Sci-fi Buttons and Panels
+Assets/Health_Assets
+Assets/Scenes
+Assets/Prefabs
+
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
 /[Mm]emoryCaptures/
@@ -60,6 +71,7 @@ sysinfo.txt
 *.aab
 *.unitypackage
 *.app
+*.unity
 
 # Crashlytics generated file
 crashlytics-build.properties
