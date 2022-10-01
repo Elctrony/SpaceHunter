@@ -20,6 +20,8 @@ Assets/Sci-fi Buttons and Panels
 Assets/Health_Assets
 Assets/Scenes
 Assets/Prefabs
+Game/
+
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
@@ -71,7 +73,7 @@ sysinfo.txt
 *.aab
 *.unitypackage
 *.app
-*.unity
+
 
 # Crashlytics generated file
 crashlytics-build.properties
